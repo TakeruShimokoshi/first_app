@@ -1,1 +1,3 @@
 # Hello Rails!
+
+test
